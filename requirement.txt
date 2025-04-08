@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+mrgsolve
+pandas
+torch
+sklearn
